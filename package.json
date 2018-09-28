@@ -41,7 +41,7 @@
   "homepage": "https://github.com/nucleode/arecibo#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.1",
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.1.1",
     "@babel/plugin-proposal-class-properties": "^7.0.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
     "@babel/plugin-transform-modules-commonjs": "^7.0.0",
